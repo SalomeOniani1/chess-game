@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/pieces">
+        <file>bP.png</file>
+        <file>wP.png</file>
+        <file>bR.png</file>
+        <file>chess.png</file>
+        <file>wB.png</file>
+        <file>wK.png</file>
+        <file>wN.png</file>
+        <file>wQ.png</file>
+        <file>wR.png</file>
+        <file>bB.png</file>
+        <file>bK.png</file>
+        <file>bN.png</file>
+        <file>bQ.png</file>
+        <file>flipIcon.png</file>
+    </qresource>
+</RCC>
